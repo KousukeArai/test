@@ -1,0 +1,11 @@
+img
+.vscode
+myvenv
+venv
+settings_local.py
+__pycache__/
+*.log
+*.pyc
+db-volumes/
+db.sqlite3
+media
